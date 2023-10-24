@@ -13,3 +13,4 @@ dependencies:
   - bioconductor-rsamtools
   - bioconductor-rtracklayer
   - bioconductor-destiny
+  - r-millefy
